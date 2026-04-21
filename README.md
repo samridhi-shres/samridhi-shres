@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 - GitHub: https://github.com/samridhi-shres  
-- LinkedIn: *(add your link here)*  
+- LinkedIn: https://www.linkedin.com/in/samridhi-shrestha060
 - Email: sthasamridhi2060@gmail.com  
 
 ---
