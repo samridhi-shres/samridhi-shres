@@ -1,43 +1,53 @@
 # 👋 Hi, I'm Samridhi Shrestha  
 
-💻 IT Student | Aspiring Developer | Problem Solver  
+💻 IT Student | Backend-Focused Developer | Building Real-World Systems  
 
 ---
 
-## 🚀 About Me  
-- 🎓 BSc. CSIT student passionate about software development  
-- 🌱 Currently learning and improving in **web development & backend systems**  
-- 💡 Interested in building real-world solutions using technology  
-- 🤝 Enjoy collaborating, sharing ideas, and working in teams  
+## 💫 About Me:
+🔭 I’m currently working on real-world web applications and backend systems  
+👯 I’m looking to collaborate on meaningful and impactful projects  
+🤝 I’m interested in scalable system design and clean architecture  
+🌱 I’m currently learning cloud technologies (AWS) and advanced backend concepts  
+💬 Ask me about ASP.NET Core, MERN stack, and API development  
+⚡ Fun fact: I prefer building practical systems over just theory  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-- C  
-- C++  
-- JavaScript  
-
-### 🌐 Web Development  
-- HTML  
-- CSS  
-- React (basic)  
-- Node.js  
-- Express.js  
-
-### 🗄️ Databases  
-- MySQL  
-- MongoDB  
-
-### ⚙️ Tools & Platforms  
-- VS Code  
-- Postman  
-- Git & GitHub  
+## 🌐 Socials:
+- GitHub: https://github.com/samridhi-shres  
+- LinkedIn: *(add your link here)*  
+- Email: sthasamridhi2060@gmail.com  
 
 ---
 
-## 📌 Projects  
+## 💻 Tech Stack:
+
+### 🚀 Languages
+- C, C++, JavaScript  
+
+### 🌐 Frontend
+- HTML, CSS, React  
+
+### ⚙️ Backend
+- Node.js, Express.js, ASP.NET Core  
+
+### 🧠 AI / Computer Vision
+- *(Add if you use any, otherwise remove this section)*  
+
+### ☁️ Cloud
+- AWS (Learning)  
+
+### 🗄️ Database
+- MySQL, MongoDB  
+
+### 🛠️ Tools & Practices
+- Git, GitHub, Postman, REST APIs  
+- MVC Architecture, API Design  
+
+---
+
+## 📌 Projects:
 
 ### 📚 Interactive Study Space  
 A collaborative platform for students to:  
@@ -50,38 +60,30 @@ A collaborative platform for students to:
 ---
 
 ### 🧾 VATTrack *(Ongoing)*  
-A system to digitize VAT management in Nepal for:  
-- Businesses  
-- Government processes  
+A system to digitize VAT management in Nepal for businesses and government processes  
 
 ---
 
 ### 🛒 Auction Platform *(Ongoing)*  
-An online bidding system where users can:  
-- List items  
-- Place bids  
-- Manage transactions  
+An online bidding system where users can list items, place bids, and manage transactions  
 
 ---
 
-## 🏆 Achievements  
+## 📊 GitHub Stats:
+*(You can add stats using GitHub readme stats later)*  
+
+---
+
+## 🔥 GitHub Streak:
+*(Optional – add streak badge later)*  
+
+---
+
+## 🏆 Achievements:
 - 🎤 Participated in Idea Pitching Competition  
-- 🛠️ Event Organizer – NSC Techtrix 2023 (Hackathon & Project Demo)  
+- 🛠️ Event Organizer – NSC Techtrix 2023  
 
 ---
 
-## 📈 What I'm Working On  
-- Improving backend development skills  
-- Learning advanced React & .NET  
-- Building scalable real-world applications  
-
----
-
-## 📫 Connect With Me  
-- 📧 Email: sthasamridhi2060@gmail.com  
-- 🌍 Location: Kathmandu, Nepal  
-
----
-
-## ⚡ Fun Fact  
-I enjoy turning ideas into real projects and constantly exploring new technologies 🚀  
+## ✍️ Random Dev Quote:
+“Build things that actually solve problems, not just things that look good on paper.”
