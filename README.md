@@ -69,15 +69,7 @@ An online bidding system where users can list items, place bids, and manage tran
 
 ---
 
-## 📊 GitHub Stats:
-*(You can add stats using GitHub readme stats later)*  
 
----
-
-## 🔥 GitHub Streak:
-*(Optional – add streak badge later)*  
-
----
 
 ## 🏆 Achievements:
 - 🎤 Participated in Idea Pitching Competition  
